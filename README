@@ -1,0 +1,16 @@
+Twitter Status Updater for Exaile is a plug-in which updates the currently playing music track info into your Twitter Microblog status!
+
+I was looking for an Exaile plug-in which updates the currently playing song on your Twitter micro-blog blog as a tweet. I did some searching and didn't find. Finally, I decided that it should be easy to write a plug-in by myself and  started off yesterday night (Jan 31st 2008).
+
+It is derived from a an existing plug-in 'IM Status' v0.12.1 by Ingelrest Francios ( (Athropos # G-mail) which updates the status of Instant messenger with the currently playing music track in Exaile.The following points are notable:
+
+1. It uses the existing code from 'IM Status' with appropriate changes adapted to twitterize it  using APIs from http://code.google.com/p/python-twitter/ 
+
+2.Programming tip first suggested/referred in Zeth's page http://commandline.org.uk/python/scripting-twitter-with-python/
+
+3. Very useful: python-twitter documentation is here http://static.unto.net/python-twitter/0.5/doc/twitter.html
+
+4. The Exaile plug-in page http://www.exaile.org/wiki/index.php?title=PluginDevelopment also helped me understand  and write the plug-in. 
+
+
+
